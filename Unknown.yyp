@@ -4,6 +4,7 @@
   "name": "Unknown",
   "resources": [
     {"id":{"name":"Sp_Box","path":"sprites/Sp_Box/Sp_Box.yy",},"order":2,},
+    {"id":{"name":"Sp_Character","path":"sprites/Sp_Character/Sp_Character.yy",},"order":3,},
     {"id":{"name":"F_Silver","path":"fonts/F_Silver/F_Silver.yy",},"order":0,},
     {"id":{"name":"Sp_Pointer","path":"sprites/Sp_Pointer/Sp_Pointer.yy",},"order":1,},
     {"id":{"name":"O_BattleMenu","path":"objects/O_BattleMenu/O_BattleMenu.yy",},"order":0,},

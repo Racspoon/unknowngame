@@ -1,1 +1,1 @@
-sel = "attack"
+global.sel = 0

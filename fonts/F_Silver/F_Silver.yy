@@ -9,7 +9,7 @@
   "applyKerning": 0,
   "fontName": "Silver",
   "styleName": "Medium",
-  "size": 96.0,
+  "size": 72.0,
   "bold": false,
   "italic": false,
   "charset": 0,

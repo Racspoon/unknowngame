@@ -1,22 +1,24 @@
-switch (sel)
+curr = global.sel%4
+
+switch (curr)
 {
-	case "attack":
+	case 0:
+		x = 112;
+		y = 416;
+	break;
+	
+	case 1:
 		x = 112;
 		y = 512;
 	break;
 	
-	case "magic":
-		x = 704;
-		y = 512;
-	break;
-	
-	case "rest":
+	case 2:
 		x = 112;
-		y = 656;
+		y = 608;
 	break;
 	
-	case "block":
-		x = 704;
-		y = 656;
+	case 3:
+		x = 112;
+		y = 704;
 	break;
 }
