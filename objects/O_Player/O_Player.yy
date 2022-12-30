@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "O_Player",
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sp_CharacterFrontWalk",
+    "path": "sprites/Sp_CharacterFrontWalk/Sp_CharacterFrontWalk.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,7 +24,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"O_CBox","path":"objects/O_CBox/O_CBox.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"O_EvanNPC","path":"objects/O_EvanNPC/O_EvanNPC.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

@@ -2,12 +2,6 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "Ts_WATile",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "autoTileSets": [],
-  "tileAnimationFrames": [],
   "spriteId": {
     "name": "Sp_WAScene",
     "path": "sprites/Sp_WAScene/Sp_WAScene.yy",
@@ -18,11 +12,17 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
-  "spriteNoExport": true,
   "out_columns": 27,
   "tile_count": 720,
+  "autoTileSets": [],
+  "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
   "tileAnimation": {
     "FrameData": [
