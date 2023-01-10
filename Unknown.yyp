@@ -10,6 +10,7 @@
     {"id":{"name":"Sp_NPC1","path":"sprites/Sp_NPC1/Sp_NPC1.yy",},"order":11,},
     {"id":{"name":"Sp_Box","path":"sprites/Sp_Box/Sp_Box.yy",},"order":1,},
     {"id":{"name":"Ts_WATile","path":"tilesets/Ts_WATile/Ts_WATile.yy",},"order":0,},
+    {"id":{"name":"O_Chatbox","path":"objects/O_Chatbox/O_Chatbox.yy",},"order":7,},
     {"id":{"name":"Sp_CharacterSpriteSheet","path":"sprites/Sp_CharacterSpriteSheet/Sp_CharacterSpriteSheet.yy",},"order":2,},
     {"id":{"name":"Sp_CharacterBackWalk","path":"sprites/Sp_CharacterBackWalk/Sp_CharacterBackWalk.yy",},"order":4,},
     {"id":{"name":"Sp_CBox","path":"sprites/Sp_CBox/Sp_CBox.yy",},"order":10,},

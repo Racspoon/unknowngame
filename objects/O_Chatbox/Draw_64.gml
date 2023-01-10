@@ -1,0 +1,1 @@
+draw_sprite(Sp_Chatbox, 0, 0, 0)
